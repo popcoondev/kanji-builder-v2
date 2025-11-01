@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rad_001",
+    "character": "人",
+    "name": "ひと",
+    "nameKana": "ひと",
+    "readings": {
+      "on": ["ジン", "ニン"],
+      "kun": ["ひと"]
+    },
+    "meaning": "人間",
+    "origin": "人の形を横から見た象形文字",
+    "grade": 1,
+    "strokes": 2,
+    "category": "person",
+    "keywords": ["人", "ひと", "にんべん", "じん", "にん"]
+  },
+  {
+    "id": "rad_002",
+    "character": "木",
+    "name": "き",
+    "nameKana": "き",
+    "readings": {
+      "on": ["ボク", "モク"],
+      "kun": ["き"]
+    },
+    "meaning": "樹木",
+    "origin": "木の形を描いた象形文字",
+    "grade": 1,
+    "strokes": 4,
+    "category": "plant",
+    "keywords": ["木", "き", "きへん", "ぼく", "もく"]
+  },
+  {
+    "id": "rad_003",
+    "character": "水",
+    "name": "みず",
+    "nameKana": "みず",
+    "readings": {
+      "on": ["スイ"],
+      "kun": ["みず"]
+    },
+    "meaning": "水",
+    "origin": "水の流れる様子を描いた象形文字",
+    "grade": 1,
+    "strokes": 4,
+    "category": "nature",
+    "keywords": ["水", "みず", "さんずい", "すい"]
+  },
+  {
+    "id": "rad_004",
+    "character": "火",
+    "name": "ひ",
+    "nameKana": "ひ",
+    "readings": {
+      "on": ["カ"],
+      "kun": ["ひ"]
+    },
+    "meaning": "火",
+    "origin": "燃え上がる炎の形を描いた象形文字",
+    "grade": 1,
+    "strokes": 4,
+    "category": "nature",
+    "keywords": ["火", "ひ", "ひへん", "か"]
+  },
+  {
+    "id": "rad_005",
+    "character": "土",
+    "name": "つち",
+    "nameKana": "つち",
+    "readings": {
+      "on": ["ド", "ト"],
+      "kun": ["つち"]
+    },
+    "meaning": "土、地面",
+    "origin": "土を盛り上げた形を描いた象形文字",
+    "grade": 1,
+    "strokes": 3,
+    "category": "nature",
+    "keywords": ["土", "つち", "つちへん", "ど", "と"]
+  },
+  {
+    "id": "rad_006",
+    "character": "口",
+    "name": "くち",
+    "nameKana": "くち",
+    "readings": {
+      "on": ["コウ", "ク"],
+      "kun": ["くち"]
+    },
+    "meaning": "口、くち",
+    "origin": "口を開けた形を描いた象形文字",
+    "grade": 1,
+    "strokes": 3,
+    "category": "body",
+    "keywords": ["口", "くち", "くちへん", "こう", "く"]
+  },
+  {
+    "id": "rad_007",
+    "character": "心",
+    "name": "こころ",
+    "nameKana": "こころ",
+    "readings": {
+      "on": ["シン"],
+      "kun": ["こころ"]
+    },
+    "meaning": "心、こころ",
+    "origin": "心臓の形を描いた象形文字",
+    "grade": 2,
+    "strokes": 4,
+    "category": "body",
+    "keywords": ["心", "こころ", "りっしんべん", "したごころ", "しん"]
+  },
+  {
+    "id": "rad_008",
+    "character": "手",
+    "name": "て",
+    "nameKana": "て",
+    "readings": {
+      "on": ["シュ"],
+      "kun": ["て"]
+    },
+    "meaning": "手",
+    "origin": "手の形を描いた象形文字",
+    "grade": 1,
+    "strokes": 4,
+    "category": "body",
+    "keywords": ["手", "て", "てへん", "しゅ"]
+  },
+  {
+    "id": "rad_009",
+    "character": "日",
+    "name": "ひ",
+    "nameKana": "ひ",
+    "readings": {
+      "on": ["ニチ", "ジツ"],
+      "kun": ["ひ", "か"]
+    },
+    "meaning": "太陽、日",
+    "origin": "太陽を描いた象形文字",
+    "grade": 1,
+    "strokes": 4,
+    "category": "nature",
+    "keywords": ["日", "ひ", "ひへん", "にち", "じつ"]
+  },
+  {
+    "id": "rad_010",
+    "character": "月",
+    "name": "つき",
+    "nameKana": "つき",
+    "readings": {
+      "on": ["ゲツ", "ガツ"],
+      "kun": ["つき"]
+    },
+    "meaning": "月",
+    "origin": "三日月の形を描いた象形文字",
+    "grade": 1,
+    "strokes": 4,
+    "category": "nature",
+    "keywords": ["月", "つき", "つきへん", "げつ", "がつ"]
+  }
+]
